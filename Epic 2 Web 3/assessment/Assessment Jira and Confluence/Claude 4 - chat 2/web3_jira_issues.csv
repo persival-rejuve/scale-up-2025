@@ -1,0 +1,7 @@
+Key,Summary,Type,Status,Priority,Created Date,Labels,Description
+REJUVEL-3492,Add new Rewards Store category for Longevity Clinics,Task,Done,Medium,2025-06-02,Report_a_bug,"Partners network including Ikigai Wellness Clinic, Juvenology, and others as part of the rewards ecosystem."
+REJUVEL-2304,Update reward history text & tab label,Bug,Done,Medium,2024-03-27,,"Issue with rewards history display text and tab labels needing improvement."
+REJUVEL-1733,Keep the 13 digit timestamp format,Task,Done,Medium,2023-03-20,,"Maintain 13-digit timestamp format for blockchain compatibility."
+REJUVEL-1727,Update token disclaimer in app,Task,Done,Highest,2023-03-20,,"Update wording to clarify that tokens earned in Beta are for simulation only and not connected to real RJV token. Will be claimable when blockchain layer is installed."
+REJUVEL-1418,Update Walkthrough guide visual and text content,Task,Done,Medium,2023-03-07,,"Updates to walkthrough guide including the RJV Tokens earning section."
+REJUVEL-64,Design a screen flow for users to do a FULL delete their data and account,Task,Done,Medium,2021-08-27,,"Design for complete data deletion process, potentially including blockchain data."
